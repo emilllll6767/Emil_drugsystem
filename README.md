@@ -7,7 +7,7 @@ Inden du installerer dette script, skal følgende ressourcer vaere installeret o
 - ox_lib
 - ox_inventory
 - oxmysql
-- sz_bridge (valgfri - scriptet falder tilbage til standalone hvis ikke tilstede)
+- sz_bridge
 
 ---
 
